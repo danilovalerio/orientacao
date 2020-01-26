@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Orientacao</string>
+    <string name="titulo_lista_participantes">Participantes</string>
+    <string name="label_name">Digite o nome</string>
+    <string name="btn_add">Adicionar</string>
+
+</resources>
